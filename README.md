@@ -23,7 +23,7 @@ Web server Apache Tomcat Development on free PostgreSQL Now available for Oracle
 Java, Hibernate, JUnit, BioJava, dot, batik, AJAX ...
 
 ## Further references
-+ See [Why_PIMS](Why_PiMS.pdf) for the background. 
++ [Why_PIMS](Why_PiMS.pdf)
 
 + ["The Protein Information Management System (PiMS): a generic tool for any structural biology research laboratory" C. Morris, A. Pajon, S. L. Griffiths, E. Daniel, M. Savitsky, B. Lin, J. M. Diprose, A. Wilter da Silva, K. Pilicheva, P. Troshin, J. van Niekerk, N. Isaacs, J. Naismith, C. Nave, R. Blake, K. S. Wilson, D. I. Stuart, K. Henrick and R. M. Esnouf] (http://scripts.iucr.org/cgi-bin/paper?S0907444911007943)
 
