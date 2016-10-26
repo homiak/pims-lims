@@ -30,3 +30,5 @@ Java, Hibernate, JUnit, BioJava, dot, batik, AJAX ...
 + [ "Recording information on protein complexes in an information management system", Savitsky, Marc; Diprose, Jonathan M.; Morris, Chris; Griffiths, Susanne L.; Daniel, Edward; Lin, Bill; Daenke, Susan; Bishop, Benjamin; Siebold, Christian; Wilson, Keith S.; Blake, Richard; Stuart, David I.; Esnouf, Robert M. (August 2011)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3477311/)
 
 + ["PIMS sequencing extension: a laboratory information management system for DNA sequencing facilities" Peter Troshin, Vincent LG Postis, Denise Ashworth, Stephen A Baldwin, Michael J McPherson and Geoffrey J Barton](http://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-4-48)
+
++ http://www.limswiki.org/index.php/PiMS
