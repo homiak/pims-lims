@@ -27,6 +27,6 @@ Java, Hibernate, JUnit, BioJava, dot, batik, AJAX ...
 
 + ["The Protein Information Management System (PiMS): a generic tool for any structural biology research laboratory" C. Morris, A. Pajon, S. L. Griffiths, E. Daniel, M. Savitsky, B. Lin, J. M. Diprose, A. Wilter da Silva, K. Pilicheva, P. Troshin, J. van Niekerk, N. Isaacs, J. Naismith, C. Nave, R. Blake, K. S. Wilson, D. I. Stuart, K. Henrick and R. M. Esnouf] (http://scripts.iucr.org/cgi-bin/paper?S0907444911007943)
 
-+ [Savitsky, Marc; Diprose, Jonathan M.; Morris, Chris; Griffiths, Susanne L.; Daniel, Edward; Lin, Bill; Daenke, Susan; Bishop, Benjamin; Siebold, Christian; Wilson, Keith S.; Blake, Richard; Stuart, David I.; Esnouf, Robert M. (August 2011). "Recording information on protein complexes in an information management system"](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3477311/)
++ [ "Recording information on protein complexes in an information management system", Savitsky, Marc; Diprose, Jonathan M.; Morris, Chris; Griffiths, Susanne L.; Daniel, Edward; Lin, Bill; Daenke, Susan; Bishop, Benjamin; Siebold, Christian; Wilson, Keith S.; Blake, Richard; Stuart, David I.; Esnouf, Robert M. (August 2011)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3477311/)
 
 + ["PIMS sequencing extension: a laboratory information management system for DNA sequencing facilities" Peter Troshin, Vincent LG Postis, Denise Ashworth, Stephen A Baldwin, Michael J McPherson and Geoffrey J Barton](http://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-4-48)
